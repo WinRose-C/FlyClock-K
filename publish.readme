@@ -1,2 +1,4 @@
 发布单文件版本
+https://learn.microsoft.com/en-us/dotnet/core/deploying/single-file/overview?tabs=cli
+
 dotnet publish -r win-x64 -p:PublishSingleFile=true --self-contained false
