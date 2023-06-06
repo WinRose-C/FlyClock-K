@@ -1,0 +1,5 @@
+G:\Downloads\C#TEST\FlyClock\bin\Release\net7.0\publish\C#TEST.exe
+G:\Downloads\C#TEST\FlyClock\bin\Release\net7.0\publish\C#TEST.dll
+G:\Downloads\C#TEST\FlyClock\bin\Release\net7.0\publish\C#TEST.deps.json
+G:\Downloads\C#TEST\FlyClock\bin\Release\net7.0\publish\C#TEST.runtimeconfig.json
+G:\Downloads\C#TEST\FlyClock\bin\Release\net7.0\publish\C#TEST.pdb

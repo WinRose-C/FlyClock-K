@@ -1,0 +1,15 @@
+G:\Downloads\C#TEST\FlyClock\bin\release\net7.0\C#TEST.exe
+G:\Downloads\C#TEST\FlyClock\bin\release\net7.0\C#TEST.deps.json
+G:\Downloads\C#TEST\FlyClock\bin\release\net7.0\C#TEST.runtimeconfig.json
+G:\Downloads\C#TEST\FlyClock\bin\release\net7.0\C#TEST.dll
+G:\Downloads\C#TEST\FlyClock\bin\release\net7.0\C#TEST.pdb
+G:\Downloads\C#TEST\FlyClock\obj\release\net7.0\C#TEST.csproj.AssemblyReference.cache
+G:\Downloads\C#TEST\FlyClock\obj\release\net7.0\C#TEST.GeneratedMSBuildEditorConfig.editorconfig
+G:\Downloads\C#TEST\FlyClock\obj\release\net7.0\C#TEST.AssemblyInfoInputs.cache
+G:\Downloads\C#TEST\FlyClock\obj\release\net7.0\C#TEST.AssemblyInfo.cs
+G:\Downloads\C#TEST\FlyClock\obj\release\net7.0\C#TEST.csproj.CoreCompileInputs.cache
+G:\Downloads\C#TEST\FlyClock\obj\release\net7.0\C#TEST.dll
+G:\Downloads\C#TEST\FlyClock\obj\release\net7.0\refint\C#TEST.dll
+G:\Downloads\C#TEST\FlyClock\obj\release\net7.0\C#TEST.pdb
+G:\Downloads\C#TEST\FlyClock\obj\release\net7.0\C#TEST.genruntimeconfig.cache
+G:\Downloads\C#TEST\FlyClock\obj\release\net7.0\ref\C#TEST.dll
