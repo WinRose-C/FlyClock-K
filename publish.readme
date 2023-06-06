@@ -1,0 +1,2 @@
+发布单文件版本
+dotnet publish -r win-x64 -p:PublishSingleFile=true --self-contained false
